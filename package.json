@@ -1,0 +1,27 @@
+{
+  "name": "rdmstmsg",
+  "version": "1.0.0",
+  "description": "Random string Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardodiaz92/rdmstmsg.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Diaz <eduaedodiaz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardodiaz92/rdmstmsg/issues"
+  },
+  "homepage": "https://github.com/eduardodiaz92/rdmstmsg#readme",
+  "bin": {
+    "rdmstmsg": "./bin/global.js"
+  },
+  "preferGlobal": "true",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
